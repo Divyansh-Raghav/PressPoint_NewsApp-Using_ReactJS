@@ -66,17 +66,6 @@
 
 ---
 
-## 📦 Deployment
-
-* Deployed on **GitHub Pages** using `gh-pages`.
-* To redeploy:
-
-  ```bash
-  npm run deploy
-  ```
-
----
-
 
 ## 📄 License
 
